@@ -18,6 +18,16 @@ Within each octave, the first 7 bits represent the **7 Prime Archetypes** (The W
 
 The 8th bit in each octave acts as **Archetype Zero (The Choice/Anchor)**, allowing the system to measure internal consensus.
 
+## Semantic Agnosticism & The Vector Space
+It must be stated that in the pure quantum sense, the operations are strictly what they are: unitary matrices operating on probability amplitudes. The Archetypal Taxonomy provides a semantic layer to explain and relate to these operations. 
+
+Depending on the context of the research, the terminology of the three 8-bit domains is entirely modular. They mathematically correlate to the 3D vector space of the Bloch sphere:
+* **Domain 1 (Z-Axis / Phase):** The domain of hidden information and internal logic (Historically mapped as *Mind*).
+* **Domain 2 (X-Axis / Kinetic):** The domain of observable state-flips and physical manifestation (Historically mapped as *Body*).
+* **Domain 3 (Y-Axis / Complex):** The domain of imaginary synthesis, bridging phase and physical action (Historically mapped as *Spirit*).
+
+The mathematical sovereign core remains identical regardless of the semantic lens applied.
+
 ## Physics vs. Semantics
 The core innovation of TUI_v01 is the strict decoupling of pure physics from semantic meaning.
 * **The Physics:** A refined dictionary of foundational Quantum Logic Gates (Hadamard, CNOT, SWAP, Toffoli, etc.) that simply perform mathematical transformations on the register.

@@ -1,0 +1,16 @@
+# Mac system files
+.DS_Store
+
+# API Keys (The vault)
+.env
+
+# Python compilation files
+*.pyc
+__pycache__/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments (if you use them)
+venv/
+env/

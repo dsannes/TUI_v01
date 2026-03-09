@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 191.99 223.05">
+  <defs>
+    <style>
+      .cls-1 {
+        filter: url(#drop-shadow-2);
+      }
+
+      .cls-2 {
+        filter: url(#drop-shadow-3);
+      }
+
+      .cls-3 {
+        filter: url(#drop-shadow-1);
+        opacity: .5;
+      }
+
+      .cls-4 {
+        fill: #6d6e70;
+      }
+
+      .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10, .cls-11, .cls-12 {
+        stroke-width: 0px;
+      }
+
+      .cls-5 {
+        fill: #1a1a1a;
+      }
+
+      .cls-6 {
+        fill: #404040;
+      }
+
+      .cls-7 {
+        fill: #bbbdbf;
+      }
+
+      .cls-8 {
+        fill: #c2c2c2;
+      }
+
+      .cls-9 {
+        fill: #929497;
+      }
+
+      .cls-10 {
+        fill: #686868;
+      }
+
+      .cls-11 {
+        fill: #fff;
+      }
+
+      .cls-12 {
+        fill: #e8e8e8;
+      }
+    </style>
+    <filter id="drop-shadow-1" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="5.04"/>
+      <feGaussianBlur result="blur" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-2" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="5.04"/>
+      <feGaussianBlur result="blur-2" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur-2" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-3" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="5.04"/>
+      <feGaussianBlur result="blur-3" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur-3" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Erratta">
+    <g>
+      <g class="cls-3">
+        <polygon class="cls-8" points="96.33 223.05 0 167.23 0 56.15 96.33 111.58 96.33 223.05"/>
+        <polygon class="cls-11" points="96.33 111.58 96.33 111.58 191.99 56.46 96.33 111.58 0 56.15 96.33 0 191.99 56.46 96.33 111.58"/>
+        <polygon class="cls-12" points="96.33 111.58 96.33 111.58 191.99 56.46 191.99 56.46 191.99 167.23 96.33 223.05 96.33 111.58"/>
+      </g>
+      <g class="cls-1">
+        <polygon class="cls-4" points="96.25 195.17 24 153.3 24 69.99 96.25 111.57 96.25 195.17"/>
+        <polygon class="cls-7" points="96.25 111.57 96.25 111.57 168 70.22 96.25 111.57 24 69.99 96.25 27.88 168 70.22 96.25 111.57"/>
+        <polygon class="cls-9" points="96.25 111.57 96.25 111.57 168 70.22 168 70.22 168 153.3 96.25 195.17 96.25 111.57"/>
+      </g>
+      <g>
+        <polygon class="cls-5" points="96.17 55.76 48 83.67 48 139.21 96.17 111.5 96.17 55.76"/>
+        <polygon class="cls-10" points="96.17 111.5 96.17 111.5 144 139.06 96.17 111.5 48 139.21 96.17 167.29 144 139.06 96.17 111.5"/>
+        <polygon class="cls-6" points="96.17 111.5 96.17 111.5 144 139.06 144 139.06 144 83.67 96.17 55.76 96.17 111.5"/>
+      </g>
+      <g class="cls-2">
+        <g>
+          <polygon class="cls-4" points="96.08 139.4 72 125.45 72 97.68 96.08 111.54 96.08 139.4"/>
+          <polygon class="cls-7" points="96.08 111.54 96.08 111.54 119.99 97.76 96.08 111.54 72 97.68 96.08 83.65 119.99 97.76 96.08 111.54"/>
+          <polygon class="cls-9" points="96.08 111.54 96.08 111.54 119.99 97.76 119.99 97.76 119.99 125.45 96.08 139.4 96.08 111.54"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

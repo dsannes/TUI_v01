@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 110.52">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #c2c2c2;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill: #e8e8e8;
+      }
+    </style>
+  </defs>
+  <g id="Erratta">
+    <g>
+      <polygon class="cls-1" points="48.17 110.52 0 82.61 0 27.08 48.17 54.79 48.17 110.52"/>
+      <polygon class="cls-2" points="48.17 54.79 48.17 54.79 96 27.23 48.17 54.79 0 27.08 48.17 0 96 27.23 48.17 54.79"/>
+      <polygon class="cls-3" points="48.17 54.79 48.17 54.79 96 27.23 96 27.23 96 82.61 48.17 110.52 48.17 54.79"/>
+    </g>
+  </g>
+</svg>

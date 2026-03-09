@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 71.59 215.49">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #231f20;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 1.46px;
+      }
+
+      .cls-2 {
+        fill: url(#Radial_Gradient-12);
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10, .cls-11, .cls-12, .cls-13 {
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        fill: url(#Radial_Gradient-10);
+      }
+
+      .cls-4 {
+        fill: url(#Radial_Gradient-11);
+      }
+
+      .cls-5 {
+        fill: url(#Radial_Gradient-9);
+      }
+
+      .cls-6 {
+        fill: url(#Radial_Gradient-3);
+      }
+
+      .cls-7 {
+        fill: url(#Radial_Gradient-7);
+      }
+
+      .cls-8 {
+        fill: url(#Radial_Gradient-8);
+      }
+
+      .cls-9 {
+        fill: url(#Radial_Gradient-4);
+      }
+
+      .cls-10 {
+        fill: url(#Radial_Gradient-2);
+      }
+
+      .cls-11 {
+        fill: url(#Radial_Gradient-6);
+      }
+
+      .cls-12 {
+        fill: url(#Radial_Gradient-5);
+      }
+
+      .cls-13 {
+        fill: url(#Radial_Gradient);
+      }
+    </style>
+    <radialGradient id="Radial_Gradient" data-name="Radial Gradient" cx="-86.47" cy="-184.76" fx="-86.47" fy="-184.76" r="8.47" gradientTransform="translate(-194.72 73.51) rotate(-120) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#231f20"/>
+    </radialGradient>
+    <radialGradient id="Radial_Gradient-2" data-name="Radial Gradient" cx="-115.81" cy="-236.04" fx="-115.81" fy="-236.04" r="9.47" xlink:href="#Radial_Gradient"/>
+    <radialGradient id="Radial_Gradient-3" data-name="Radial Gradient" cx="-57.41" cy="-235.75" fx="-57.41" fy="-235.75" r="9.47" xlink:href="#Radial_Gradient"/>
+    <radialGradient id="Radial_Gradient-4" data-name="Radial Gradient" cx="-41.77" cy="-210.56" fx="-41.77" fy="-210.56" r="8.47" gradientTransform="translate(-194.72 -10.76) rotate(120)" xlink:href="#Radial_Gradient"/>
+    <radialGradient id="Radial_Gradient-5" data-name="Radial Gradient" cx="-71.12" cy="-261.84" fx="-71.12" fy="-261.84" r="9.47" gradientTransform="translate(-194.72 -10.76) rotate(120)" xlink:href="#Radial_Gradient"/>
+    <radialGradient id="Radial_Gradient-6" data-name="Radial Gradient" cx="-12.72" cy="-261.55" fx="-12.72" fy="-261.55" r="9.47" gradientTransform="translate(-194.72 -10.76) rotate(120)" xlink:href="#Radial_Gradient"/>
+    <radialGradient id="Radial_Gradient-7" data-name="Radial Gradient" cx="45.81" cy="-261.13" fx="45.81" fy="-261.13" r="8.47" gradientTransform="translate(-194.72 -10.76) rotate(120)" xlink:href="#Radial_Gradient"/>
+    <radialGradient id="Radial_Gradient-8" data-name="Radial Gradient" cx="16.47" cy="-312.41" fx="16.47" fy="-312.41" r="9.47" gradientTransform="translate(-194.72 -10.76) rotate(120)" xlink:href="#Radial_Gradient"/>
+    <radialGradient id="Radial_Gradient-9" data-name="Radial Gradient" cx="74.86" cy="-312.12" fx="74.86" fy="-312.12" r="9.47" gradientTransform="translate(-194.72 -10.76) rotate(120)" xlink:href="#Radial_Gradient"/>
+    <radialGradient id="Radial_Gradient-10" data-name="Radial Gradient" cx="-174.05" cy="-134.19" fx="-174.05" fy="-134.19" r="8.47" xlink:href="#Radial_Gradient"/>
+    <radialGradient id="Radial_Gradient-11" data-name="Radial Gradient" cx="-203.39" cy="-185.47" fx="-203.39" fy="-185.47" r="9.47" xlink:href="#Radial_Gradient"/>
+    <radialGradient id="Radial_Gradient-12" data-name="Radial Gradient" cx="-145" cy="-185.18" fx="-145" fy="-185.18" r="9.47" xlink:href="#Radial_Gradient"/>
+  </defs>
+  <g id="Matrix">
+    <g>
+      <g>
+        <g>
+          <polyline class="cls-1" points="35.83 6.64 35.83 40.3 64.99 57.14"/>
+          <line class="cls-1" x1="35.82" y1="40.31" x2="6.48" y2="57.25"/>
+        </g>
+        <path class="cls-13" d="M3.31,51.44c-3.16,1.82-4.25,5.87-2.42,9.03,1.83,3.17,5.87,4.25,9.04,2.42,3.17-1.83,4.25-5.88,2.42-9.04-1.82-3.16-5.87-4.25-9.03-2.42Z"/>
+        <g>
+          <path class="cls-10" d="M61.67,51.46c-3.17,1.83-4.25,5.87-2.42,9.04,1.83,3.16,5.87,4.24,9.04,2.42,3.16-1.83,4.25-5.87,2.42-9.04-1.83-3.16-5.87-4.25-9.03-2.42Z"/>
+          <path class="cls-6" d="M32.47.89c-3.16,1.83-4.25,5.87-2.42,9.03,1.83,3.16,5.87,4.25,9.04,2.42,3.16-1.83,4.25-5.88,2.42-9.04-1.83-3.17-5.87-4.25-9.04-2.42Z"/>
+        </g>
+      </g>
+      <g>
+        <g>
+          <polyline class="cls-1" points="35.83 107.72 35.83 74.06 64.99 57.22"/>
+          <line class="cls-1" x1="35.82" y1="74.05" x2="6.48" y2="57.11"/>
+        </g>
+        <path class="cls-9" d="M3.31,62.92c-3.16-1.82-4.25-5.87-2.42-9.03,1.83-3.17,5.87-4.25,9.04-2.42,3.17,1.83,4.25,5.88,2.42,9.04-1.82,3.16-5.87,4.25-9.03,2.42Z"/>
+        <g>
+          <path class="cls-12" d="M61.67,62.9c-3.17-1.83-4.25-5.87-2.42-9.04,1.83-3.16,5.87-4.24,9.04-2.42,3.16,1.83,4.25,5.87,2.42,9.04-1.83,3.16-5.87,4.25-9.03,2.42Z"/>
+          <path class="cls-11" d="M32.47,113.47c-3.16-1.83-4.25-5.87-2.42-9.03,1.83-3.17,5.87-4.25,9.04-2.42,3.16,1.83,4.25,5.87,2.42,9.04-1.83,3.17-5.87,4.25-9.04,2.42Z"/>
+        </g>
+      </g>
+      <g>
+        <g>
+          <polyline class="cls-1" points="35.83 208.85 35.83 175.19 64.99 158.35"/>
+          <line class="cls-1" x1="35.82" y1="175.18" x2="6.48" y2="158.24"/>
+        </g>
+        <path class="cls-7" d="M3.31,164.05c-3.16-1.82-4.25-5.87-2.42-9.03,1.83-3.17,5.87-4.25,9.04-2.42,3.17,1.83,4.25,5.88,2.42,9.04-1.82,3.16-5.87,4.25-9.03,2.42Z"/>
+        <g>
+          <path class="cls-8" d="M61.67,164.03c-3.17-1.83-4.25-5.87-2.42-9.04,1.83-3.16,5.87-4.24,9.04-2.42,3.16,1.83,4.25,5.87,2.42,9.04-1.83,3.16-5.87,4.25-9.03,2.42Z"/>
+          <path class="cls-5" d="M32.47,214.6c-3.16-1.83-4.25-5.88-2.42-9.03,1.83-3.16,5.87-4.25,9.04-2.42,3.16,1.83,4.25,5.88,2.42,9.04-1.83,3.16-5.87,4.25-9.04,2.42Z"/>
+        </g>
+      </g>
+      <g>
+        <g>
+          <polyline class="cls-1" points="35.83 107.77 35.83 141.43 64.99 158.27"/>
+          <line class="cls-1" x1="35.82" y1="141.44" x2="6.48" y2="158.38"/>
+        </g>
+        <path class="cls-3" d="M3.31,152.57c-3.16,1.82-4.25,5.87-2.42,9.03,1.83,3.17,5.87,4.25,9.04,2.42,3.17-1.83,4.25-5.88,2.42-9.04-1.82-3.16-5.87-4.25-9.03-2.42Z"/>
+        <g>
+          <path class="cls-4" d="M61.67,152.59c-3.17,1.83-4.25,5.87-2.42,9.04,1.83,3.16,5.87,4.24,9.04,2.42,3.16-1.83,4.25-5.87,2.42-9.04-1.83-3.16-5.87-4.25-9.03-2.42Z"/>
+          <path class="cls-2" d="M32.47,102.02c-3.16,1.83-4.25,5.87-2.42,9.03,1.83,3.17,5.87,4.25,9.04,2.42,3.16-1.83,4.25-5.87,2.42-9.04-1.83-3.17-5.87-4.25-9.04-2.42Z"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
